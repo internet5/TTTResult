@@ -1,5 +1,5 @@
 const expect = require('chai').expect;
-import getWinResultForTTT from '../getWinResultForTTT'
+const getWinResultForTTT = require('../getWinResultForTTT');
 describe('expect',()=>{
     it("根据任意井字棋盘输入获取可能的获胜结果集",()=>{
         let player = 'x';
