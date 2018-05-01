@@ -1,7 +1,2 @@
 language: node_js
 node_js: stable
-install:
-  - npm install -g babel-cli
-  - npm install -g babel-loader
-  - npm install -g mocha
-  - npm install
