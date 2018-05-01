@@ -1,4 +1,5 @@
-import {expect} from 'chai'
+import chai from 'chai';
+const expect = chai.expect;
 import getWinResultForTTT from '../getWinResultForTTT'
 describe('expect',()=>{
     it("根据任意井字棋盘输入获取可能的获胜结果集",()=>{
