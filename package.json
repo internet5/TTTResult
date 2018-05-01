@@ -9,7 +9,7 @@
   "author": "xx",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.10"
+    "lodash.countby": "^4.6.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",

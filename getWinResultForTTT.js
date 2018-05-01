@@ -1,4 +1,4 @@
-import { countBy } from 'lodash'
+import countBy from 'lodash.countby'
 /***************************
 *功能:根据任意井字棋盘输入获取可能的获胜结果集（支持棋盘尺寸扩展）
 *时间:2018/4/30
